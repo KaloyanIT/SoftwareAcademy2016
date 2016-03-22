@@ -1,0 +1,45 @@
+﻿using System;
+
+//Problem 15.* Age after 10 Years
+
+//Write a program to read your birthday from the console and print how old you are now and how old you will be after 10 years.
+
+class AgeAfter10Years
+{
+    public static int yearsNow;
+    static void Main(string[] args)
+    {
+        Console.Write("Enter birtday year:");
+        int birthdayYear = int.Parse(Console.ReadLine());
+        Console.Write("Month:");
+        int month = int.Parse(Console.ReadLine());
+        Console.Write("Day");
+        int day = int.Parse(Console.ReadLine());        
+        DateTime birthday = new DateTime(birthdayYear, month, day);
+        DateTime now = DateTime.Now;
+        Console.WriteLine(CalculateAge(birthday, now));               
+        Console.WriteLine(Add10Years(yearsNow));
+
+    }
+
+    static int CalculateAge(DateTime birthday, DateTime now)
+    {
+        yearsNow = now.Year - birthday.Year;
+        if (birthday.Month > now.Month)
+        {
+            yearsNow--;
+        }
+        if (birthday.Month == now.Month && birthday.Day > now.Day)
+        {
+            yearsNow--;
+        }
+        return yearsNow;
+    }
+
+    static int Add10Years(int yearsNow)
+    {
+        int yearsAfter10 = yearsNow + 10;
+        return yearsAfter10;
+    }
+}
+
