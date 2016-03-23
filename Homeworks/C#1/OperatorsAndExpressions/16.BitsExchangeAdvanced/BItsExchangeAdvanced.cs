@@ -11,6 +11,6 @@ class BItsExchangeAdvanced
 {
     static void Main()
     {
-
+        Console.WriteLine("hello");
     }
 }
