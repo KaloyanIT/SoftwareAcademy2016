@@ -10,15 +10,23 @@ class AgeAfter10Years
     static void Main(string[] args)
     {
         Console.Write("Enter birtday year:");
-        int birthdayYear = int.Parse(Console.ReadLine());
-        Console.Write("Month:");
-        int month = int.Parse(Console.ReadLine());
-        Console.Write("Day");
-        int day = int.Parse(Console.ReadLine());        
-        DateTime birthday = new DateTime(birthdayYear, month, day);
-        DateTime now = DateTime.Now;
-        Console.WriteLine(CalculateAge(birthday, now));               
-        Console.WriteLine(Add10Years(yearsNow));
+        string[] input = Console.ReadLine().Split(new char[] {'.'}, StringSplitOptions.RemoveEmptyEntries);
+        int month = int.Parse(input[0]);
+        int day = int.Parse(input[1]);
+        int birthdayYear = int.Parse(input[2]);
+        Console.WriteLine(day);
+        if (birthdayYear > DateTime.Now.Year)
+        {
+            Console.WriteLine(0);
+            Console.WriteLine(10);
+        }
+        else
+        {
+            DateTime birthday = new DateTime(birthdayYear, month, day);
+            DateTime now = DateTime.Now;
+            Console.WriteLine(CalculateAge(birthday, now));
+            Console.WriteLine(Add10Years(yearsNow));
+        }
 
     }
 
