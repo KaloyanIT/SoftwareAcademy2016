@@ -13,8 +13,15 @@ class ComparingFloats
         string secondNumInput = Console.ReadLine();
         float a = float.Parse(firstNumInput);
         float b = float.Parse(secondNumInput);
-        bool equalAB = Math.Abs(a - b) < 1e-6;
-        Console.WriteLine("Are number {0} and {1} equal? {2}", a, b, equalAB);
+        bool equalAB = Math.Abs(a - b) < 1e-6;        
+        if (equalAB == true)
+        {
+            Console.WriteLine("true");
+        }
+        else
+        {
+            Console.WriteLine("false");
+        }
     }
 }
 

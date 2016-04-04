@@ -14,13 +14,13 @@ class BooleanExpression
         int position = 3;
         int mask = 1 << position;
         int result = checkNum & mask;
-        if (result == 4)
+        if (result == 8)
         {
-            Console.WriteLine("Third bit is 1");
+            Console.WriteLine(1);
         }
         else
         {
-            Console.WriteLine("Third bit is 0;");
+            Console.WriteLine(0);
         }
         
     }

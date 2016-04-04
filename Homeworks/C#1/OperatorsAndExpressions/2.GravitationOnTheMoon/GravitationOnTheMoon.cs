@@ -8,11 +8,10 @@
 class GravitationOnTheMoon
 {
     static void Main()
-    {
-        Console.Write("Weight:");
+    {        
         double weightEarth = double.Parse(Console.ReadLine());
         double weightMoon = weightEarth * 0.17;
-        Console.WriteLine(weightMoon);
+        Console.WriteLine("{0:F3}", weightMoon);
     }
 }
 

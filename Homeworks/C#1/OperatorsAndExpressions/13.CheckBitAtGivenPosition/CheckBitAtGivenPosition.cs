@@ -8,7 +8,18 @@ class CheckBitAtGivenPosition
 {
     static void Main()
     {
-
+        long number = long.Parse(Console.ReadLine());
+        int p = int.Parse(Console.ReadLine());
+        
+       
+        if ((number & ((long)1 << p)) != 0)
+        {
+            Console.WriteLine(1);
+        }
+        else
+        {
+            Console.WriteLine(0);
+        }
     }
 }
 

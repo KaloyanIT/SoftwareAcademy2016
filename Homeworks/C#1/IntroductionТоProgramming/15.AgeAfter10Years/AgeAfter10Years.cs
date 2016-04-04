@@ -9,13 +9,12 @@ class AgeAfter10Years
     public static int yearsNow;
     static void Main(string[] args)
     {
-        Console.Write("Enter birtday year:");
+        
         string[] input = Console.ReadLine().Split(new char[] {'.'}, StringSplitOptions.RemoveEmptyEntries);
         int month = int.Parse(input[0]);
         int day = int.Parse(input[1]);
-        int birthdayYear = int.Parse(input[2]);
-        Console.WriteLine(day);
-        if (birthdayYear > DateTime.Now.Year)
+        int birthdayYear = int.Parse(input[2]);                
+        if (birthdayYear >= 2016)
         {
             Console.WriteLine(0);
             Console.WriteLine(10);

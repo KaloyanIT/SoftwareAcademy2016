@@ -7,16 +7,15 @@
 class DivideBy7And5
 {
     static void Main(string[] args)
-    {
-        Console.Write("Input number:");
+    {        
         int checkNum = int.Parse(Console.ReadLine());
         if (checkNum % 35 == 0)
         {
-            Console.WriteLine("The number can be divided by 5 and 7");
+            Console.WriteLine("true {0}", checkNum);
         }
         else
         {
-            Console.WriteLine("The number can't be divided by 5 and 7");
+            Console.WriteLine("false {0}", checkNum);
         }
     }
 }

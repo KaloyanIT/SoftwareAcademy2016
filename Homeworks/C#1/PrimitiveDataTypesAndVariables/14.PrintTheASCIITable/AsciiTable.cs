@@ -15,14 +15,9 @@ class AsciiTable
     {
         Console.OutputEncoding = Encoding.UTF8;
 
-        for (int i = 0; i < 256; i++)
+        for (int i = 33; i < 127; i++)
         {
-            Console.Write("DEC {0} HEX {1} ASCII {2}   ", i, i.ToString("X"), (char)i);
-
-            if (i % 3 == 0)
-            {
-                Console.WriteLine();
-            }
+            Console.Write(Convert.ToChar(i));
         }
     }
 }

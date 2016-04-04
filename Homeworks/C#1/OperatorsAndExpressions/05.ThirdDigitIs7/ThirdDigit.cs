@@ -8,16 +8,16 @@ class ThirdDigit
 {
     static void Main()
     {
-        Console.Write("Enter number:");
         int number = int.Parse(Console.ReadLine());
-
-        if ((number / 100) % 10 == 7)
+        int thirdNumber = (number/100) % 10;
+        if (thirdNumber == 7)
         {
-            Console.WriteLine(true);
+            Console.WriteLine("true");
         }
         else
         {
-            Console.WriteLine(false);
+            
+            Console.WriteLine("false {0}", thirdNumber);
         }
     }
 }

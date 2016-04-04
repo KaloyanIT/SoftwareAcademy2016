@@ -14,7 +14,6 @@ class FourDigitNumber
 {
     static void Main()
     {
-        Console.Write("Number: ");
         int number = int.Parse(Console.ReadLine());
         string numberToString = number.ToString();
         int numberLength = numberToString.Length;
@@ -22,19 +21,13 @@ class FourDigitNumber
 
         for (int i = 0; i < numberToString.Length; i++)
         {
-            sum += (number % 10);
+            sum += (number%10);
             number /= 10;
         }
 
-        Console.WriteLine(sum);        
-        Console.WriteLine(numberToString[0] + "" + numberToString[1] + "" + numberToString[2] + "" + numberToString[3]);
+        Console.WriteLine(sum);
+        Console.WriteLine(numberToString[3] + "" + numberToString[2] + "" + numberToString[1] + "" + numberToString[0]);
         Console.WriteLine(numberToString[3] + "" + numberToString[0] + "" + numberToString[1] + "" + numberToString[2]);
         Console.WriteLine(numberToString[0] + "" + numberToString[2] + "" + numberToString[1] + "" + numberToString[3]);
-        
-        
-
-
-
     }
 }
-

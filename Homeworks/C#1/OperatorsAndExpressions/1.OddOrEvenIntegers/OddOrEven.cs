@@ -7,17 +7,16 @@
 class OddOrEven
 {
     static void Main(string[] args)
-    {
-        Console.Write("Write a number:");
+    {        
         string inputNum = Console.ReadLine();
         int checkNum = int.Parse(inputNum);
         if (checkNum % 2 == 0)
         {
-            Console.WriteLine("The number is even");
+            Console.WriteLine("even {0}", checkNum);
         }
         else
         {
-            Console.WriteLine("The number is odd");
+            Console.WriteLine("odd {0}", checkNum);
         }
     }
 }
