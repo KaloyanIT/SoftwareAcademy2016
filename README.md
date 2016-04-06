@@ -1,15 +1,7 @@
 # SoftwareAcademy2016
 ##**Homeworks**
 ###1. **[C#1](https://github.com/KaloyanIT/SoftwareAcademy2016/tree/master/Homeworks/C%231)**
-  1. Fix bug
-  2. Improve formatting
-  3. Fix bug
-  4. Improve formatting
-  5. Fix bug
-  6. Improve formatting
-  7. Fix bug
-    * Make the headings bigger
-2. **HTML**
+###2. **[HTML](https://github.com/KaloyanIT/SoftwareAcademy2016/tree/master/Homeworks/HTML)**
   1. Fix bug
   2. Improve formatting
   3. Fix bug
