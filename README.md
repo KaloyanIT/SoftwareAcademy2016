@@ -2,24 +2,9 @@
 ##**Homeworks**
 ###1. **[C#1](https://github.com/KaloyanIT/SoftwareAcademy2016/tree/master/Homeworks/C%231)**
 ###2. **[HTML](https://github.com/KaloyanIT/SoftwareAcademy2016/tree/master/Homeworks/HTML)**
-  1. Fix bug
-  2. Improve formatting
-  3. Fix bug
-  4. Improve formatting
-  5. Fix bug
-  6. Improve formatting
-  7. Fix bug
-  8. Improve formatting
-3. **C#2**
-  1. Fix bug
-  2. Improve formatting
-  3. Fix bug
-  4. Improve formatting
-  5. Fix bug
-  6. Improve formatting
-  7. Fix bug
-  8. Improve formatting
-4. Open a pull request
-  * Describe my changes
-  * Mention all the members of my team
-    * Ask for feedback
+_____________________________________________________________________________________________
+###1. **[C#2](https://github.com/KaloyanIT/SoftwareAcademy2016/tree/master/Homeworks/C%231)**
+###2. **[CSS](https://github.com/KaloyanIT/SoftwareAcademy2016/tree/master/Homeworks/HTML)**
+_____________________________________________________________________________________________
+###1. **[C#OOP](https://github.com/KaloyanIT/SoftwareAcademy2016/tree/master/Homeworks/C%231)**
+###2. **[JS-Basics](https://github.com/KaloyanIT/SoftwareAcademy2016/tree/master/Homeworks/HTML)**
