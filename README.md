@@ -8,7 +8,6 @@
   5. Fix bug
   6. Improve formatting
   7. Fix bug
-  8. Improve formatting
     * Make the headings bigger
 2. **HTML**
   1. Fix bug
