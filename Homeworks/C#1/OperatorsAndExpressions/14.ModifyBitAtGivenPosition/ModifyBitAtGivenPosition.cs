@@ -9,12 +9,17 @@ class ModifyBitAtGivenPosition
 {
     static void Main()
     {
-        int n = int.Parse(Console.ReadLine());
-        int p = int.Parse(Console.ReadLine());
-        int v = int.Parse(Console.ReadLine());
+        
 
 
+        ulong n = ulong.Parse(Console.ReadLine());
+        byte p = byte.Parse(Console.ReadLine());
+        ulong v = ulong.Parse(Console.ReadLine());
+        n &= ~(1U << p);
+        n |= (v << p);
+        Console.WriteLine(n);
 
     }
 }
+
 
