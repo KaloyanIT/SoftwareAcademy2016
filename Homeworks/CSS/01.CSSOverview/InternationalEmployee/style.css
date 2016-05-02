@@ -1,0 +1,24 @@
+table {
+    border-collapse: collapse;
+    font-size: 8pt;
+}
+th {
+    color: white;
+}
+td{
+    width: 150px;
+}
+
+img {
+    height: 9px;
+}
+.headings {
+    color: white;
+}
+.green-color {
+    background-color: greenyellow;
+}
+
+.brown-color{
+    background-color:  #ffe;
+}
