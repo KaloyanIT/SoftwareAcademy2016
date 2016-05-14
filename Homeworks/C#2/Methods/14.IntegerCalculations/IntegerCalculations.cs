@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 //Problem 14. Integer calculations
 
@@ -11,7 +12,14 @@ class IntegerCalculations
     {
         //int set = int.Parse(Console.ReadLine());
         //int[] arrayOfNumbers = new int[set];
-        int[] arrayOfNUmbers = { 7, 32, 54, 23, 3, 18, 1};
+        
+        string textNumbers = Console.ReadLine();
+        var numbers = textNumbers.Split(' ').ToArray();
+        long[] arrayOfNUmbers = new long[numbers.Length];
+        for (int i = 0; i < numbers.Length; i++)
+        {
+            arrayOfNUmbers[i] = long.Parse(numbers[i]);
+        }
         FindMinimum(arrayOfNUmbers);     
         FindMaximum(arrayOfNUmbers);
         FindAverage(arrayOfNUmbers);
@@ -19,10 +27,10 @@ class IntegerCalculations
         FindProduct(arrayOfNUmbers);
     }
 
-    static void FindMinimum(int[] array)
+    static void FindMinimum(long[] array)
     {
-        int minumum = int.MaxValue;
-        int current = 0;
+        long minumum = long.MaxValue;
+        long current = 0;
         for (int i = 0; i < array.Length; i++)
         {
             current = array[i];
@@ -31,13 +39,13 @@ class IntegerCalculations
                 minumum = current;
             }
         }
-        Console.WriteLine("Minimal sum is {0}", minumum);
+        Console.WriteLine(minumum);
     }
 
-    static void FindMaximum(int[] array)
+    static void FindMaximum(long[] array)
     {
-        int max = int.MinValue;
-        int current = 0;
+        long max = long.MinValue;
+        long current = 0;
         for (int i = 0; i < array.Length; i++)
         {
             current = array[i];
@@ -46,38 +54,38 @@ class IntegerCalculations
                 max = current;
             }
         }
-        Console.WriteLine("Maximal number is {0}", max);
+        Console.WriteLine(max);
     }
 
-    static void FindAverage(int[] array)
+    static void FindAverage(long[] array)
     {
-        int sum = 0;
+        long sum = 0;
         for (int i = 0; i < array.Length; i++)
         {
             sum += array[i];
         }
-        int average = sum / array.Length;
-        Console.WriteLine("Average sum is {0}", average);
+        double average = (double)sum / (double)array.Length;
+        Console.WriteLine("{0:F2}", average);
     }
 
-    static void FindSum(int[] array)
+    static void FindSum(long[] array)
     {
-        int sum = 0;
+        long sum = 0;
         for (int i = 0; i < array.Length; i++)
         {
             sum += array[i];
         }
-        Console.WriteLine("Sum is {0}", sum);
+        Console.WriteLine(sum);
     }
 
-    static void FindProduct(int[] array)
+    static void FindProduct(long[] array)
     {
-        int product = 1;
+        long product = 1;
         for (int i = 0; i < array.Length; i++)
         {
             product *= array[i];
         }
-        Console.WriteLine("Product is {0}", product);
+        Console.WriteLine(product);
     }
 }
 

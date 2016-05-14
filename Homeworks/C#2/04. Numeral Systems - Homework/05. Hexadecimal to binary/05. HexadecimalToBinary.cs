@@ -6,11 +6,17 @@ class HexadecimalToBinary
 {
     static void Main()
     {
-        string number = Console.ReadLine();
-        int numberBase = 16;
-        int toBase = 2;
-        string converted = Convert.ToString(Convert.ToInt32(number, numberBase), toBase);
-        Console.WriteLine(converted);
+        string hexValue = Console.ReadLine();
+        ulong decimalNumber = Convert.ToUInt64(hexValue, 16);
+        ulong remainder;
+        string result = string.Empty;
+        while (decimalNumber > 0)
+        {
+            remainder = decimalNumber % 2;
+            decimalNumber /= 2;
+            result = remainder.ToString() + result;
+        }
+        Console.WriteLine("{0}", result);
     }
 }
 

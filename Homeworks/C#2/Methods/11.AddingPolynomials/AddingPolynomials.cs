@@ -1,30 +1,37 @@
 ﻿using System;
+using System.Linq;
 
 class AddingPolynomials
 {
     static void Main()
     {
-        Console.Write("Enter you polynomial degree: ");
-        int degree = int.Parse(Console.ReadLine());
-        int[] polyDegrees = new int[degree + 1];
-        for (int i = polyDegrees.Length - 1; i >= 0; i--)
-		{
-            Console.Write("x^" + i + " = ");
-            polyDegrees[i] = int.Parse(Console.ReadLine());
-		}
-        PrintArray(polyDegrees);
-    }
-
-    static void PrintArray(int[] array)
-    {
-        Console.Write("{ ");
-        foreach (var item in array)
+        int n = int.Parse(Console.ReadLine());
+        string firstPoly = Console.ReadLine(); //first polynomials as string
+        string secondPoly = Console.ReadLine(); //second polynomials as string
+        int[] first = new int[n];
+        var numbers = firstPoly.Split(' ').ToArray();
+        for (int i = 0; i < numbers.Length; i++)
         {
-
-            Console.Write(item + ", ");
+            first[i] = int.Parse(numbers[i]);
         }
-        Console.Write("}");
+        int[] second = new int[n];
+        var secondNumbers = secondPoly.Split(' ').ToArray();
+        for (int i = 0; i < numbers.Length; i++)
+        {
+            second[i] = int.Parse(secondNumbers[i]);
+        }
+        AddPolynomials(first, second);
     }
-    
+
+    static void AddPolynomials(int[] first, int[] second)
+    {
+        int sum = 0;
+        for (int i = 0; i < first.Length; i++)
+        {
+            sum = first[i] + second[i];
+            Console.Write(sum + " ");
+        }
+    }
+
 }
 

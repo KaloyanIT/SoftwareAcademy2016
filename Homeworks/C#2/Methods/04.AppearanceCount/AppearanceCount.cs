@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 //Problem 4. Appearance count
 
@@ -9,8 +10,16 @@ class AppearanceCount
 {
     static void Main()
     {
-        int[] array = { 2, 3, 4, 5, 6, 7, 7, 7, 7, 7, 7, 7, 9, 9, 12, 13, 9, 9 };
-        int number = 7;
+        int n = int.Parse(Console.ReadLine());
+        string textNumbers = Console.ReadLine();
+        var numbers = textNumbers.Split(' ').ToArray();
+        int[] array = new int[numbers.Length];
+        for (int i = 0; i < numbers.Length; i++)
+        {
+            array[i] = int.Parse(numbers[i]);
+        }
+        //int[] array = { 2, 3, 4, 5, 6, 7, 7, 7, 7, 7, 7, 7, 9, 9, 12, 13, 9, 9 };
+        int number = int.Parse(Console.ReadLine());
         CountElementsInArray(array, number);
     }
 
@@ -24,7 +33,7 @@ class AppearanceCount
                 count++;
 	        }
         }
-        Console.WriteLine("Number: {0} is {1} times in array", number, count);
+        Console.WriteLine(count);
     }
 }
 

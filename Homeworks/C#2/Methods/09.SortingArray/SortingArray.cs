@@ -10,14 +10,19 @@ class SortingArray
 {
     static void Main()
     {
-        int[] array = {12, 18, 2, 8, 13, 54, 32, 28, 30, 51, 78, 21, 87 };
-        Console.Write("Enter index to start from: ");
-        int startIndex = int.Parse(Console.ReadLine());
-        FindMaximalElement(array, startIndex);
+        int n = int.Parse(Console.ReadLine());
+        int[] array = new int[n];
+        string textNumbers = Console.ReadLine();
+        var numbers = textNumbers.Split(' ').ToArray();
+        for (int i = 0; i < numbers.Length; i++)
+        {
+            array[i] = int.Parse(numbers[i]);
+        }
         SelectionSortAlgo(array);
-        PrintArray(array);
-        SelectionSortAlgoDescendingOrder(array);
-        PrintArray(array);
+        foreach (var i in array)
+        {            
+            Console.Write(i + " ");
+        }        
     }
 
     static void FindMaximalElement(int[] array, int startIndex)

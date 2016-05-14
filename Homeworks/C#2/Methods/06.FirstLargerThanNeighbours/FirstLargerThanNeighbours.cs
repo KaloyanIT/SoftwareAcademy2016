@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 //Problem 6. First larger than neighbours
 
@@ -9,37 +10,34 @@ class FirstLargerThanNeighbours
 {
     static void Main()
     {
-        int[] array = { 3, 9, 18, 7, 12, 3, 4, 6, 6, 8 };
-        
-        int position;
-        for (int i = 1; i < array.Length - 1; i++)
+        int n = int.Parse(Console.ReadLine());
+        int[] array = new int[n];
+        string textNumbers = Console.ReadLine();
+        var numbers = textNumbers.Split(' ').ToArray();
+        for (int i = 0; i < numbers.Length; i++)
         {
-            position = i;
-            
-            if (FindLargerElement(array, position) == false)
-            {
-                continue;
-            }
-            else
-            {
-                Console.WriteLine(position);
-               break;
-            }
-
+            array[i] = int.Parse(numbers[i]);
         }
+        Console.WriteLine(FindLargerElement(array));
     }
 
-    static bool FindLargerElement(int[] array, int position)
+    static int FindLargerElement(int[] array)
     {
-        
-        if (array[position] > array[position + 1] && array[position] > array[position - 1])
+        int count = 0;
+        for (int position = 1; position < array.Length - 1; position++)
         {
-            return true;
+            if (array[position] > array[position + 1] && array[position] > array[position - 1])
+            {
+                count++;
+            }
+            if (count == 1)
+            {
+                count = position;
+                break;            
+            }
         }
-        else
-        {
-            return false;
-        }
+        return count;
     }
+
 }
 

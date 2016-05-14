@@ -15,7 +15,7 @@ class ReverseNumber
     static void ReverseNumbers(decimal number)
     {
         string text = number.ToString();
-        for (int i = text.Length - 1; i > 0; i--)
+        for (int i = text.Length - 1; i >= 0; i--)
         {
             Console.Write(text[i]);
         }

@@ -1,13 +1,19 @@
 ﻿using System;
 
-//•	Write a program to convert decimal numbers to their binary representation
-
 class DecimalToBinary
 {
-    static void Main()
+    static void Main(string[] args)
     {
-        int number = int.Parse(Console.ReadLine());
-        string converted = Convert.ToString(number, 2);
-        Console.WriteLine("Binary representation is: {0}", converted);
+        long decimalNumber = long.Parse(Console.ReadLine());
+
+        long remainder;
+        string result = string.Empty;
+        while (decimalNumber > 0)
+        {
+            remainder = decimalNumber % 2;
+            decimalNumber /= 2;
+            result = remainder.ToString() + result;
+        }
+        Console.WriteLine("{0}", result);
     }
 }

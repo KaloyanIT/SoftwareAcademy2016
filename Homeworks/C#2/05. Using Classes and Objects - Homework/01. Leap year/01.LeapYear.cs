@@ -7,10 +7,17 @@ class LeapYear
 {
     static void Main()
     {
-        Console.Write("Write year to chek is it leap: ");
+        //Console.Write("Write year to chek is it leap: ");
         int year = int.Parse(Console.ReadLine());
         var isLeap = DateTime.IsLeapYear(year);
-        Console.WriteLine(isLeap);
+        if (isLeap)
+        {
+            Console.WriteLine("Leap");
+        }
+        else
+        {
+            Console.WriteLine("Common");
+        }
     }
 }
 

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 //Problem 2. Get largest number
 
@@ -9,12 +10,16 @@ class GetLargestNumber
 {
     static void Main()
     {
-        int firstNumber = int.Parse(Console.ReadLine());
-        int secondNumber = int.Parse(Console.ReadLine());
-        GetMax(firstNumber, secondNumber);
+        string numbers = Console.ReadLine();
+        var arrayNum = numbers.Split(' ').ToArray();
+        int firstNumber = int.Parse(arrayNum[0]);
+        int secondNumber = int.Parse(arrayNum[1]);
+        int thirdNumber = int.Parse(arrayNum[2]);
+        int maximal = GetMax(firstNumber, secondNumber);
+        Console.WriteLine(GetMax(maximal, thirdNumber));
     }
 
-    static void GetMax(int firstNumber, int secondNumber)
+    static int GetMax(int firstNumber, int secondNumber)
     {
         int max = 0;
         if (firstNumber > secondNumber)
@@ -25,8 +30,8 @@ class GetLargestNumber
         {
             max = secondNumber;
         }
-        Console.WriteLine("Bigger number is: " + secondNumber);
-        
+        return max;
+
     }
 }
 

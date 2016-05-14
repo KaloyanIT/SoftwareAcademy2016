@@ -9,7 +9,7 @@ class NFactorial
 {
     static void Main()
     {
-        BigInteger number = 100;
+        BigInteger number = BigInteger.Parse(Console.ReadLine());
         NFactorialSum(number);
     }
 

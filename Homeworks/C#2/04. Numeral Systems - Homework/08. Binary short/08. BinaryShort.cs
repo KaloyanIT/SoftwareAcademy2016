@@ -12,3 +12,5 @@ class BinaryShort
         Console.WriteLine(binary);
     }
 }
+//1111111111110101
+//0000000000001011

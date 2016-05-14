@@ -6,7 +6,7 @@ class DecimalToHexadecimal
 {
     static void Main()
     {
-        int number = int.Parse(Console.ReadLine());
+        long number = long.Parse(Console.ReadLine());
         string converted = Convert.ToString(number, 16);
         Console.WriteLine(converted);
     }
