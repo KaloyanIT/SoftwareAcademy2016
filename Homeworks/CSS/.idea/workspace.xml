@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1ea29af-29fc-416e-a234-7bda3d2ecf04" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03.CSSLayout/02.MusicCategories/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03.CSSLayout/02.MusicCategories/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03.CSSLayout/03.MembersLogin/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03.CSSLayout/03.MembersLogin/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03.CSSLayout/04.CSSDocumentationSite/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03.CSSLayout/04.CSSDocumentationSite/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03.CSSLayout/05.LaptopStore/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03.CSSLayout/05.LaptopStore/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03.CSSLayout/06.NewsSite/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03.CSSLayout/06.NewsSite/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03.CSSLayout/01.ThreeView/index.html" afterPath="$PROJECT_DIR$/03.CSSLayout/01.ThreeView/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03.CSSLayout/01.ThreeView/style.css" afterPath="$PROJECT_DIR$/03.CSSLayout/01.ThreeView/style.css" />
     </list>
     <list id="cb1b99ed-5c23-4430-8fd2-46136cd83e5e" name="Rejected commit: Default" comment="CSS Homework. First and second problem form overview" />
     <ignored path="CSS.iws" />
@@ -39,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/03.CSSLayout/06.NewsSite/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+            <state relative-caret-position="682">
+              <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -267,7 +255,7 @@
       <workItem from="1462696203379" duration="96000" />
       <workItem from="1463262782894" duration="2111000" />
       <workItem from="1463404250521" duration="18000" />
-      <workItem from="1463404367572" duration="6612000" />
+      <workItem from="1463404367572" duration="6657000" />
     </task>
     <task id="LOCAL-00001" summary="Add some files">
       <created>1462199465361</created>
@@ -276,20 +264,27 @@
       <option name="project" value="LOCAL" />
       <updated>1462199465361</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add Css Layout Homework">
+      <created>1463679129467</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1463679129467</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19917000" />
+    <option name="totallyTimeSpent" value="19962000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1932" height="1038" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17656416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17656416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32743362" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32648402" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -319,7 +314,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="CSS Homework. First and second problem form overview" />
     <MESSAGE value="Add some files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add some files" />
+    <MESSAGE value="Add Css Layout Homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Css Layout Homework" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -646,8 +642,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/03.CSSLayout/06.NewsSite/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+        <state relative-caret-position="682">
+          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
           <folding />
         </state>
       </provider>
