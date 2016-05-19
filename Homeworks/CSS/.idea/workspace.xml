@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1ea29af-29fc-416e-a234-7bda3d2ecf04" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03.CSSLayout/01.ThreeView/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03.CSSLayout/01.ThreeView/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03.CSSLayout/02.MusicCategories/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03.CSSLayout/02.MusicCategories/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03.CSSLayout/03.MembersLogin/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03.CSSLayout/03.MembersLogin/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03.CSSLayout/04.CSSDocumentationSite/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03.CSSLayout/04.CSSDocumentationSite/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03.CSSLayout/05.LaptopStore/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03.CSSLayout/05.LaptopStore/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03.CSSLayout/06.NewsSite/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03.CSSLayout/06.NewsSite/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02.CSSPresentation/WindowsCalculator/style.css" afterPath="$PROJECT_DIR$/02.CSSPresentation/WindowsCalculator/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03.CSSLayout/01.ThreeView/index.html" afterPath="$PROJECT_DIR$/03.CSSLayout/01.ThreeView/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03.CSSLayout/01.ThreeView/style.css" afterPath="$PROJECT_DIR$/03.CSSLayout/01.ThreeView/style.css" />
     </list>
     <list id="cb1b99ed-5c23-4430-8fd2-46136cd83e5e" name="Rejected commit: Default" comment="CSS Homework. First and second problem form overview" />
     <ignored path="CSS.iws" />
@@ -27,41 +36,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02.CSSPresentation/WindowsCalculator/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="27" column="0" selection-start-line="26" selection-start-column="21" selection-end-line="27" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02.CSSPresentation/WindowsCalculator/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2156">
-              <caret line="98" column="2" selection-start-line="98" selection-start-column="2" selection-end-line="98" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/03.CSSLayout/01.ThreeView/index.html">
+        <entry file="file://$PROJECT_DIR$/03.CSSLayout/06.NewsSite/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            <state relative-caret-position="704">
+              <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03.CSSLayout/01.ThreeView/style.css">
+        <entry file="file://$PROJECT_DIR$/03.CSSLayout/06.NewsSite/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+            <state relative-caret-position="1320">
+              <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -98,8 +87,18 @@
         <option value="$PROJECT_DIR$/02.CSSPresentation/NestedDivs/style.css" />
         <option value="$PROJECT_DIR$/02.CSSPresentation/WindowsCalculator/index.html" />
         <option value="$PROJECT_DIR$/02.CSSPresentation/WindowsCalculator/style.css" />
-        <option value="$PROJECT_DIR$/03.CSSLayout/01.ThreeView/style.css" />
         <option value="$PROJECT_DIR$/03.CSSLayout/01.ThreeView/index.html" />
+        <option value="$PROJECT_DIR$/03.CSSLayout/01.ThreeView/style.css" />
+        <option value="$PROJECT_DIR$/03.CSSLayout/02.MusicCategories/index.html" />
+        <option value="$PROJECT_DIR$/03.CSSLayout/02.MusicCategories/style.css" />
+        <option value="$PROJECT_DIR$/03.CSSLayout/03.MembersLogin/index.html" />
+        <option value="$PROJECT_DIR$/03.CSSLayout/03.MembersLogin/style.css" />
+        <option value="$PROJECT_DIR$/03.CSSLayout/04.CSSDocumentationSite/index.html" />
+        <option value="$PROJECT_DIR$/03.CSSLayout/04.CSSDocumentationSite/style.css" />
+        <option value="$PROJECT_DIR$/03.CSSLayout/05.LaptopStore/index.html" />
+        <option value="$PROJECT_DIR$/03.CSSLayout/05.LaptopStore/style.css" />
+        <option value="$PROJECT_DIR$/03.CSSLayout/06.NewsSite/index.html" />
+        <option value="$PROJECT_DIR$/03.CSSLayout/06.NewsSite/style.css" />
       </list>
     </option>
   </component>
@@ -159,38 +158,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="CSS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02.CSSPresentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02.CSSPresentation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ForumPosts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -300,7 +267,7 @@
       <workItem from="1462696203379" duration="96000" />
       <workItem from="1463262782894" duration="2111000" />
       <workItem from="1463404250521" duration="18000" />
-      <workItem from="1463404367572" duration="1231000" />
+      <workItem from="1463404367572" duration="6612000" />
     </task>
     <task id="LOCAL-00001" summary="Add some files">
       <created>1462199465361</created>
@@ -313,13 +280,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14536000" />
+    <option name="totallyTimeSpent" value="19917000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1932" height="1038" extended-state="1" />
+    <frame x="-8" y="0" width="1932" height="1038" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17659353" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17656416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32743362" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -591,16 +558,96 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/03.CSSLayout/01.ThreeView/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+        <state relative-caret-position="484">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/03.CSSLayout/01.ThreeView/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        <state relative-caret-position="796">
+          <caret line="49" column="7" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.CSSLayout/02.MusicCategories/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.CSSLayout/02.MusicCategories/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1276">
+          <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.CSSLayout/03.MembersLogin/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.CSSLayout/03.MembersLogin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.CSSLayout/04.CSSDocumentationSite/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3276">
+          <caret line="194" column="7" selection-start-line="194" selection-start-column="7" selection-end-line="194" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.CSSLayout/04.CSSDocumentationSite/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="100" column="0" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.CSSLayout/05.LaptopStore/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="126" column="7" selection-start-line="126" selection-start-column="7" selection-end-line="126" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.CSSLayout/05.LaptopStore/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1804">
+          <caret line="82" column="1" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.CSSLayout/06.NewsSite/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.CSSLayout/06.NewsSite/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
           <folding />
         </state>
       </provider>
