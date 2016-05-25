@@ -12,7 +12,7 @@
     {
         static void Main()
         {
-            string text = "<p>Please visit <a href=\"http://academy.telerik. com\">our site</a> to choose a training course. Also visit <a href=\"www.devbg.org\">our forum</a> to discuss the courses.</p>";
+            string text = Console.ReadLine();//"<p>Please visit <a href=\"http://academy.telerik. com\">our site</a> to choose a training course. Also visit <a href=\"www.devbg.org\">our forum</a> to discuss the courses.</p>";
             string pattern = "(?<first><a href=\\\")(?:[a-zA-Z0-9./:\\ ]+)(?<OpenCloseTag>\">)(?:[a-zA-Z0-9 ]+)(?<closeTag></a>)";
             Regex regex = new Regex(pattern);
             Match matches = regex.Match(text);

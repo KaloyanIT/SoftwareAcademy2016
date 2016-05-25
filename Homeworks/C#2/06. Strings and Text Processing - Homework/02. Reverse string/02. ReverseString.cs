@@ -6,7 +6,6 @@ class ReverseString
 {
     static void Main()
     {
-        Console.Write("Write a word: ");
         string text = Console.ReadLine();
         for (int i  = text.Length - 1; i >= 0; i--)
         {

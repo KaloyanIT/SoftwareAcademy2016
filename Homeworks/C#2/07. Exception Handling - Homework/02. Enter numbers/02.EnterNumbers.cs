@@ -14,7 +14,7 @@
         static void Main()
         {
             //ReadNumber(5, 15);
-            Read10Numbers(10, 100);
+            Read10Numbers(0, 100);
         }
 
         static void ReadNumber(int start, int end)
@@ -34,7 +34,7 @@
                 array[i] = int.Parse(Console.ReadLine());
                 if (array[i] < start || array[i] > end)
                 {
-                    throw new Exception("Invalid number");
+                    throw new Exception("Exception");
                 }
             }
         }

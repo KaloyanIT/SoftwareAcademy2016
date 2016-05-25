@@ -1,22 +1,22 @@
 ﻿using System;
+using System.Linq;
 
-//• Write a program that finds how many times a sub-string is contained in a given text (perform case insensitive search).
-
-class SubStringInText
+class SubstringInText
 {
     static void Main()
     {
-        string text = "The text is as follows: We are living in an yellow submarine. We don't have anything else. inside the submarine is very tight. So we are drinking all the day. We will move out of it in 5 days.";
-        int count = 0;
-        for (int i = 0; i < text.Length; i++)
+        string pattern = Console.ReadLine();
+        string text = Console.ReadLine();
+
+        int counter = 0;
+        for (int i = 0; i < text.Length - pattern.Length + 1; i++)
         {
-            if (text[i] == 'i' && text[i + 1] == 'n')
-            {
-                count++;
+            if (text.Substring(i, pattern.Length).Equals(pattern, StringComparison.OrdinalIgnoreCase))
+            { 
+                counter++;
             }
         }
-        Console.WriteLine(count);
+        Console.WriteLine(counter);
 
     }
 }
-

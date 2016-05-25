@@ -6,7 +6,7 @@ class CorrectBrackets
 {
     static void Main()
     {
-        string text = "()(a + b))";
+        string text = Console.ReadLine();
         int count = 0;
         for (int i = 0; i < text.Length; i++)
         {
@@ -21,11 +21,11 @@ class CorrectBrackets
         }
         if (count == 0)
         {
-            Console.WriteLine("Brackets are put correctly");
+            Console.WriteLine("Correct");
         }
         else
         {
-            Console.WriteLine("Brackets are not put correctly");
+            Console.WriteLine("Incorrect");
         }
         
     }

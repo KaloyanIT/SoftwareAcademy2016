@@ -1,28 +1,53 @@
-﻿namespace ExtractSentences
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+class ExtractSentences
 {
-    using System;
-    using System.Text;
-    using System.Linq;
-
-    //•	Write a program that extracts from a given text all sentences containing given word.
-
-    class ExtractSentences
+    static void Main()
     {
-        static void Main()
+        string matchWord = Console.ReadLine()
+                                  .ToLower();
+
+        string text = Console.ReadLine();
+
+        string[] sentences = text.Split('.')
+                                 .ToArray();
+
+        // Extract unique characters in array.
+        char[] separators = ExtractUniqueSeparators(text);
+
+        StringBuilder filteredSentences = new StringBuilder();
+
+        for (int i = 0; i < sentences.Length; i++)
         {
-            string text = "We are living in a yellow submarine. We don't have anything else. Inside the submarine is very tight. So we are drinking all the day. We will move out of it in 5 days.";
-            string givenWord = "in";
-            char[] splitsChars = { '.' };
-            string[] spiltted = text.Split(splitsChars, StringSplitOptions.RemoveEmptyEntries).ToArray();
-            Console.WriteLine();
-            for (int i = 0; i < spiltted.Length; i++)
+
+            // Separate words by none letter symbols.
+            var words = sentences[i].ToLower()
+                                    .Split(separators)
+                                    .ToArray();
+
+            // Check for match word.
+            bool isMatchWord = words.Any(x => x == matchWord);
+
+            // Add sentence if word is match in current sentence.
+            if (isMatchWord)
             {
-               if( spiltted[i].IndexOf(" in ") > 1)
-               {
-                   Console.Write(spiltted[i] + ".");
-               }
+                filteredSentences.Append(sentences[i] + ".");
             }
         }
+
+        // Print result.
+        Console.WriteLine(string.Join(" ", filteredSentences));
+    }
+
+    static char[] ExtractUniqueSeparators(string text)
+    {
+        char[] separators = text.Where(x => !char.IsLetter(x) && x != '.') // Add separator if it is not a letter or '.'.
+                                .Distinct() // Remove repeated characters.
+                                .ToArray(); // Add separators in array.
+        return separators;
     }
 }
-

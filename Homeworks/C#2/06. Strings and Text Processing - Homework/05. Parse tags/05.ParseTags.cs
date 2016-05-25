@@ -13,7 +13,8 @@
     {
         static void Main()
         {
-            string text = "We are living in a <upcase>yellow submarine</upcase>. We don't have <upcase>anything</upcase> else.";
+            string text = Console.ReadLine();
+                //"We are living in a <upcase>yellow submarine</upcase>. We don't have <upcase>anything</upcase> else.";
             Console.WriteLine(TagsToUpper(text));
         }
 

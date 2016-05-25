@@ -1,48 +1,42 @@
-﻿namespace SeriesOfLetters
+﻿using System;
+using System.Text;
+
+namespace _23_Series_Of_Letters
 {
-
-    using System;
-    using System.Text;
-    using System.Text.RegularExpressions;
-    using System.Linq;
-
-    //•	Write a program that reads a string from the console and replaces all series 
-    //  of consecutive identical letters with a single one.
-
     class SeriesOfLetters
     {
         static void Main()
         {
-            string text = "aaaaabbbbbcdddeeeedssaa";
-            string pattern = @"[a-zA-Z]";
-            Regex regex = new Regex(pattern);
-            MatchCollection matches = regex.Matches(text);
-            StringBuilder noEquelsSymbols = new StringBuilder();
-            for (int i = 0; i < matches.Count - 1; i++)
+            // Input - string of letters
+            var input = Console.ReadLine();
+
+            var output = new StringBuilder();
+
+            output.Append(input[0]);
+
+            foreach (var letter in input)
             {
-                noEquelsSymbols.Append(matches[i]);
-               while (true)
-	            {
-                    if (matches[i].ToString() == matches[i + 1].ToString())
-                    {                        
-                        i++;
-                        if (i >= matches.Count - 1)
-                        {
-                            i--;
-                            break;
-                        }
-                    }
-                    else
-                    {
-                        break;
-                    }
-	            }
-               //if (i >= matches.Count - 1)
-               //{
-               //    break;
-               //}
+                var prevLetter = output[output.Length - 1];
+
+                // if current letter is not 
+                // actually a letter skip
+                // maybe ? 
+                if (!char.IsLetter(letter))
+                {
+                    continue;
+                }
+
+                if (letter == prevLetter)
+                {
+                    continue;
+                }
+                else
+                {
+                    output.Append(letter);
+                }
             }
-            Console.WriteLine(noEquelsSymbols.ToString());
+
+            Console.WriteLine(output);
         }
     }
 }

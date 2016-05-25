@@ -12,7 +12,7 @@
     {
         static void Main()
         {
-            string str = "Text";
+            string str = Console.ReadLine();//"Text";
             byte[] unibyte = Encoding.Unicode.GetBytes(str);
             var bytes = new List<byte>();
             for (int i = 0; i < unibyte.Length; i++)
@@ -29,7 +29,7 @@
             string uniString = string.Empty;
             foreach (byte b in bytes)
             {
-                uniString += string.Format("{0}{1}", @"\u", b.ToString("X"));
+                uniString += string.Format("{0}{1}", @"\u", b.ToString("X").PadLeft(4, '0'));
 
             }
             Console.WriteLine(uniString);

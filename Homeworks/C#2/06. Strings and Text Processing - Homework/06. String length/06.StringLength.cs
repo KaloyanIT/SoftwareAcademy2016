@@ -12,25 +12,36 @@
     {
         static void Main()
         {
-            StringBuilder text = new StringBuilder();
-            string stext = Console.ReadLine();
-            if (stext.Length > 20)
-            {
-                Console.WriteLine("String must be smaller than 20 characters.");
-            }
-            else
-            {
-                text.Append(stext);
-                if (stext.Length < 20)
-                {
-                    for (int i = stext.Length; i <= 20; i++)
-                    {
-                        text.Append('*');
-                    }
-                }
-                //text.ToString();
-                Console.WriteLine(text.ToString());
-            }
+            string input = Console.ReadLine();
+            Console.WriteLine(input.Replace(@"\", string.Empty).PadRight(20, '*'));
+
+
+
+
+
+
+
+            //StringBuilder text = new StringBuilder();
+            //string stext = Console.ReadLine();
+            //if (stext.Length > 20)
+            //{
+            //    Console.WriteLine();
+            //}
+            //else
+            //{
+            //    text.Append(stext);
+            //    if (stext.Length < 20)
+            //    {
+            //        for (int i = stext.Length; i <= 19; i++)
+            //        {
+            //            text.Append('*');
+            //        }
+            //    }                
+            //    //text.ToString();
+            //    Console.WriteLine(text.ToString());
+            //}
+
+
         }
     }
 }
