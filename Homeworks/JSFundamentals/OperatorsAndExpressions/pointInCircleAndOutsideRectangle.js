@@ -14,16 +14,10 @@ console.log(insideRectangle);
 if (insideCircle == true && insideRectangle == false) {
     console.log(true);
 }
-/*
-function checkPoint () {
-    if (( Math.pow((pointX - centerX), 2) + Math.pow((pointY - centerY), 2) <= Math.pow(radius, 2))) {
-        if ((pointX >= -1 && pointX <= 5) && (pointY <= 1 && pointX >= -1)) {
-            return true;
-        }else {
-            return false;
-        }
-    }
-}
-*/
 
-/* console.log(checkPoint()); */
+
+function solve(array) {
+    var x = parseFloat(array[0]);
+    var y = parseFloat(array[1]);
+
+}
