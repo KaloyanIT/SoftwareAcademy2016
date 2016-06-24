@@ -1,38 +1,32 @@
 var numbers = [2, 8, 32, 3, 18, 6, 15];
+function solve(array){
+    var sum,
+        min = 200,
+        max = -200,
+        avg,
+        currentMin,
+        currentMax;
 
-numbers.sort(function(a, b){return a-b});
+    for(a = 0; a < array.length; a++){
+        sum += array[a];
+    }
 
-console.log('min: ' + numbers[0] + ' max: ' + numbers[numbers.length - 1]);
-
-
-//Way with Loop
-
-function findMin(numbers) {
-    var current = 0;
-    var min = 100;
-    for (var i = 0; i < numbers.length; i++) {
-        current = numbers[i];
-        if (current < min) {
-            min = current;
+    for(i = 0; i < array.length; a++){
+        currentMax = currentMin = array[i];
+        if(currentMax > max){
+            max = currentMax;
+        }
+        if(currentMin < min){
+            min = currentMin;
         }
     }
-    return 'Min: ' + min;
-
+    avg = (sum / array.length);
+    console.log("min=" + min);
+    console.log("max=" + max);
+    console.log("sum=" + sum);
+    console.log("avg=" + sum);
+    return 0;
 }
 
+console.log(solve(numbers));
 
-
-function findMax(numbers) {
-    var current = 0;
-    var max = 0;
-    for (var i = 0; i < numbers.length; i++) {
-        current = numbers[i];
-        if (current > max) {
-            max = current;
-        }
-    }
-    return 'Max: ' + max;
-}
-
-console.log(findMin(numbers));
-console.log(findMax(numbers));
