@@ -1,10 +1,7 @@
-
-
-var numbers = [5, 1, 2];
-
-
-
-function findBiggest(a, b, c) {
+function solve(array) {
+    var a = parseFloat(array[0]);
+    var b = parseFloat(array[1]);
+    var c = parseFloat(array[2]);
     if (a > b) {
         if (a > c) {
             return a;
@@ -18,4 +15,4 @@ function findBiggest(a, b, c) {
     return b;
 }
 
-console.log(findBiggest(numbers[0], numbers[1], numbers[2]));
+console.log(solve([5, 1, 2]));

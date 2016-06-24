@@ -1,21 +1,27 @@
-var a = 5;
-var b = 2;
-var c = 2;
+function solve(array) {
+    var a = parseFloat(array[0]);
+    var b = parseFloat(array[1]);
+    var c = parseFloat(array[2]);
+    if(a == 0 || b == 0 || c == 0){
+        return 0;
+    }else{
+        var minusCount = 0;
 
-var minusCount = 0;
+        if (a < 0) {
+            minusCount++;
+        }
+        if (b < 0) {
+            minusCount++;
+        }
+        if (c < 0) {
+            minusCount++;
+        }
 
-if (a < 0) {
-    minusCount++;
+        if (minusCount === 1 || minusCount === 3) {
+            return "-"
+        } else {
+            return "+"
+        }
+    }
 }
-if (b < 0) {
-    minusCount++;
-}
-if (c < 0) {
-    minusCount++;
-}
-
-if (minusCount === 1 || minusCount === 3) {
-    console.log('-');
-} else {
-    console.log('+');
-}
+console.log(solve([5, 2, 2]));

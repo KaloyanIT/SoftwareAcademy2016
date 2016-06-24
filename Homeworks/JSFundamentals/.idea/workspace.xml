@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/ConditionalStatements/quadraticEquation.js" line="15" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1251f01c-1069-466f-b294-1d14de3ef338" name="Default" comment="JSHomework remaked">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OperatorsAndExpressions/divisibleBy7And5.js" afterPath="$PROJECT_DIR$/OperatorsAndExpressions/divisibleBy7And5.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OperatorsAndExpressions/isPrime.js" afterPath="$PROJECT_DIR$/OperatorsAndExpressions/isPrime.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ConditionalStatements/digitAsWord.js" afterPath="$PROJECT_DIR$/ConditionalStatements/digitAsWord.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ConditionalStatements/exchangeIfGreater.js" afterPath="$PROJECT_DIR$/ConditionalStatements/exchangeIfGreater.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ConditionalStatements/multiplicationSign.js" afterPath="$PROJECT_DIR$/ConditionalStatements/multiplicationSign.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ConditionalStatements/numberAsWord.js" afterPath="$PROJECT_DIR$/ConditionalStatements/numberAsWord.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ConditionalStatements/quadraticEquation.js" afterPath="$PROJECT_DIR$/ConditionalStatements/quadraticEquation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ConditionalStatements/sortThreeNumbers.js" afterPath="$PROJECT_DIR$/ConditionalStatements/sortThreeNumbers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ConditionalStatements/theBiggestOfFiveNumbers.js" afterPath="$PROJECT_DIR$/ConditionalStatements/theBiggestOfFiveNumbers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ConditionalStatements/theBiggestOfThree.js" afterPath="$PROJECT_DIR$/ConditionalStatements/theBiggestOfThree.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OperatorsAndExpressions/oddOrEven.js" afterPath="$PROJECT_DIR$/OperatorsAndExpressions/oddOrEven.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OperatorsAndExpressions/pointInCircleAndOutsideRectangle.js" afterPath="$PROJECT_DIR$/OperatorsAndExpressions/pointInCircleAndOutsideRectangle.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OperatorsAndExpressions/pointsInCircle.js" afterPath="$PROJECT_DIR$/OperatorsAndExpressions/pointsInCircle.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OperatorsAndExpressions/rectrngle.js" afterPath="$PROJECT_DIR$/OperatorsAndExpressions/rectrngle.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OperatorsAndExpressions/thirdBit.js" afterPath="$PROJECT_DIR$/OperatorsAndExpressions/thirdBit.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OperatorsAndExpressions/thirdDigit.js" afterPath="$PROJECT_DIR$/OperatorsAndExpressions/thirdDigit.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OperatorsAndExpressions/trapezoidArea.js" afterPath="$PROJECT_DIR$/OperatorsAndExpressions/trapezoidArea.js" />
     </list>
     <ignored path="JS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,103 +36,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="exchangeIfGreater.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ConditionalStatements/exchangeIfGreater.js">
+      <file leaf-file-name="sortThreeNumbers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ConditionalStatements/sortThreeNumbers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            <state relative-caret-position="382">
+              <caret line="28" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="oddOrEven.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OperatorsAndExpressions/oddOrEven.js">
+      <file leaf-file-name="numberAsWord.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ConditionalStatements/numberAsWord.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="96">
+              <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="divisibleBy7And5.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OperatorsAndExpressions/divisibleBy7And5.js">
+      <file leaf-file-name="digitAsWord.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ConditionalStatements/digitAsWord.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="506">
+              <caret line="38" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rectrngle.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OperatorsAndExpressions/rectrngle.js">
+      <file leaf-file-name="quadraticEquation.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ConditionalStatements/quadraticEquation.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="29" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="68" />
+            <state relative-caret-position="484">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="thirdBit.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OperatorsAndExpressions/thirdBit.js">
+      <file leaf-file-name="theBiggestOfFiveNumbers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ConditionalStatements/theBiggestOfFiveNumbers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pointsInCircle.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OperatorsAndExpressions/pointsInCircle.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="1" selection-start-line="10" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="isPrime.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OperatorsAndExpressions/isPrime.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="24" column="1" selection-start-line="13" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="trapezoidArea.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OperatorsAndExpressions/trapezoidArea.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pointInCircleAndOutsideRectangle.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/OperatorsAndExpressions/pointInCircleAndOutsideRectangle.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="thirdDigit.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OperatorsAndExpressions/thirdDigit.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="484">
+              <caret line="28" column="1" selection-start-line="1" selection-start-column="0" selection-end-line="28" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -141,8 +93,8 @@
       <list>
         <option value="TypeScript File" />
         <option value="package_json" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -152,15 +104,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Loops/numbers.js" />
-        <option value="$PROJECT_DIR$/Loops/numbersNotDivisible.js" />
-        <option value="$PROJECT_DIR$/Loops/minMaxOfSequence.js" />
-        <option value="$PROJECT_DIR$/Arrays/increaseArraysNumbers.js" />
-        <option value="$PROJECT_DIR$/Arrays/lexicographicallyComparison.js" />
-        <option value="$PROJECT_DIR$/Arrays/maximalSequence.js" />
-        <option value="$PROJECT_DIR$/Arrays/maixmalIncreasingSequence.js" />
-        <option value="$PROJECT_DIR$/Arrays/selectionSort.js" />
-        <option value="$PROJECT_DIR$/Arrays/index.html" />
         <option value="$PROJECT_DIR$/Arrays/mostFrequentNumber.js" />
         <option value="$PROJECT_DIR$/Arrays/binarySearch.js" />
         <option value="$PROJECT_DIR$/Fucntions/klklk.ts" />
@@ -194,7 +137,6 @@
         <option value="$PROJECT_DIR$/Strings/generateList/generateList.html" />
         <option value="$PROJECT_DIR$/Strings/generateList/generateList.js" />
         <option value="$PROJECT_DIR$/RegularExpression/formatWithPlaceholders.js" />
-        <option value="$PROJECT_DIR$/OperatorsAndExpressions/oddOrEven.js" />
         <option value="$PROJECT_DIR$/OperatorsAndExpressions/divisibleBy7And5.js" />
         <option value="$PROJECT_DIR$/OperatorsAndExpressions/rectrngle.js" />
         <option value="$PROJECT_DIR$/OperatorsAndExpressions/thirdDigit.js" />
@@ -203,6 +145,16 @@
         <option value="$PROJECT_DIR$/OperatorsAndExpressions/isPrime.js" />
         <option value="$PROJECT_DIR$/OperatorsAndExpressions/trapezoidArea.js" />
         <option value="$PROJECT_DIR$/OperatorsAndExpressions/pointInCircleAndOutsideRectangle.js" />
+        <option value="$PROJECT_DIR$/OperatorsAndExpressions/index.html" />
+        <option value="$PROJECT_DIR$/OperatorsAndExpressions/oddOrEven.js" />
+        <option value="$PROJECT_DIR$/ConditionalStatements/exchangeIfGreater.js" />
+        <option value="$PROJECT_DIR$/ConditionalStatements/multiplicationSign.js" />
+        <option value="$PROJECT_DIR$/ConditionalStatements/theBiggestOfThree.js" />
+        <option value="$PROJECT_DIR$/ConditionalStatements/sortThreeNumbers.js" />
+        <option value="$PROJECT_DIR$/ConditionalStatements/digitAsWord.js" />
+        <option value="$PROJECT_DIR$/ConditionalStatements/quadraticEquation.js" />
+        <option value="$PROJECT_DIR$/ConditionalStatements/theBiggestOfFiveNumbers.js" />
+        <option value="$PROJECT_DIR$/ConditionalStatements/numberAsWord.js" />
       </list>
     </option>
   </component>
@@ -214,7 +166,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="width" value="1932" />
+    <option name="width" value="1933" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -279,10 +231,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches">
-        <subPane />
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -315,8 +263,26 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JSFundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConditionalStatements" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches">
+        <subPane />
+      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -335,20 +301,20 @@
       <recent name="E:\Telerik\Part1\JS\Strings\generateList" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.trapezoidArea.js">
-    <configuration default="false" name="generateList.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="E:/Programm Files/NodeJS/node" path-to-js-file="generateList.js" working-dir="$PROJECT_DIR$/Strings/generateList">
-      <method />
-    </configuration>
-    <configuration default="false" name="exchangeIfGreater.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="exchangeIfGreater.js" working-dir="$PROJECT_DIR$/ConditionalStatements">
-      <method />
-    </configuration>
-    <configuration default="false" name="rectrngle.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="rectrngle.js" working-dir="$PROJECT_DIR$/OperatorsAndExpressions">
-      <method />
-    </configuration>
-    <configuration default="false" name="pointsInCircle.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="pointsInCircle.js" working-dir="$PROJECT_DIR$/OperatorsAndExpressions">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.theBiggestOfFiveNumbers.js">
     <configuration default="false" name="trapezoidArea.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="trapezoidArea.js" working-dir="$PROJECT_DIR$/OperatorsAndExpressions">
+      <method />
+    </configuration>
+    <configuration default="false" name="oddOrEven.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="oddOrEven.js" working-dir="$PROJECT_DIR$/OperatorsAndExpressions">
+      <method />
+    </configuration>
+    <configuration default="false" name="multiplicationSign.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="multiplicationSign.js" working-dir="$PROJECT_DIR$/ConditionalStatements">
+      <method />
+    </configuration>
+    <configuration default="false" name="digitAsWord.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="digitAsWord.js" working-dir="$PROJECT_DIR$/ConditionalStatements">
+      <method />
+    </configuration>
+    <configuration default="false" name="theBiggestOfFiveNumbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="theBiggestOfFiveNumbers.js" working-dir="$PROJECT_DIR$/ConditionalStatements">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -405,19 +371,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.generateList.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.exchangeIfGreater.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.rectrngle.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.pointsInCircle.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.trapezoidArea.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.trapezoidArea.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.oddOrEven.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.multiplicationSign.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.digitAsWord.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.theBiggestOfFiveNumbers.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.trapezoidArea.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.pointsInCircle.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.rectrngle.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.exchangeIfGreater.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.generateList.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.theBiggestOfFiveNumbers.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.digitAsWord.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.multiplicationSign.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.oddOrEven.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.trapezoidArea.js" />
       </list>
     </recent_temporary>
   </component>
@@ -437,12 +403,22 @@
       <workItem from="1466018463975" duration="607000" />
       <workItem from="1466111129204" duration="48000" />
       <workItem from="1466111213533" duration="531000" />
-      <workItem from="1466536547774" duration="8242000" />
+      <workItem from="1466536547774" duration="9179000" />
+      <workItem from="1466710445404" duration="1391000" />
+      <workItem from="1466778275344" duration="4769000" />
     </task>
+    <task id="LOCAL-00001" summary="JSHomework remaked">
+      <created>1466622161582</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1466622161582</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9428000" />
+    <option name="totallyTimeSpent" value="16525000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -454,20 +430,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1932" height="1038" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="0" width="1933" height="1038" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19034995" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19024907" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896176" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30102623" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30102623" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995495" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3990981" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -518,62 +494,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Loops/numbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Loops/numbersNotDivisible.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Loops/minMaxOfSequence.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Loops/lexicographicallySmallest.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays/increaseArraysNumbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays/lexicographicallyComparison.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="17" column="59" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays/maximalSequence.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays/maixmalIncreasingSequence.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Arrays/selectionSort.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -805,64 +725,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ConditionalStatements/exchangeIfGreater.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OperatorsAndExpressions/oddOrEven.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OperatorsAndExpressions/divisibleBy7And5.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OperatorsAndExpressions/isPrime.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="24" column="1" selection-start-line="13" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OperatorsAndExpressions/rectrngle.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OperatorsAndExpressions/pointsInCircle.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="1" selection-start-line="10" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OperatorsAndExpressions/thirdBit.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/OperatorsAndExpressions/thirdDigit.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -879,10 +741,130 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/OperatorsAndExpressions/thirdBit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OperatorsAndExpressions/rectrngle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OperatorsAndExpressions/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConditionalStatements/exchangeIfGreater.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConditionalStatements/theBiggestOfThree.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConditionalStatements/multiplicationSign.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConditionalStatements/digitAsWord.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="38" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OperatorsAndExpressions/pointsInCircle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="16" column="79" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/OperatorsAndExpressions/pointInCircleAndOutsideRectangle.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
+        <state relative-caret-position="382">
           <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OperatorsAndExpressions/divisibleBy7And5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OperatorsAndExpressions/isPrime.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="1" selection-start-line="13" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OperatorsAndExpressions/oddOrEven.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConditionalStatements/sortThreeNumbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="28" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConditionalStatements/quadraticEquation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConditionalStatements/theBiggestOfFiveNumbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="28" column="1" selection-start-line="1" selection-start-column="0" selection-end-line="28" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConditionalStatements/numberAsWord.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
           <folding />
         </state>
       </provider>

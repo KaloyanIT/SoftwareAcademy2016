@@ -9,4 +9,4 @@ function solve(number){
     }
 }
 
-console.log(isOddOrEven(number));
+console.log(solve(number));
