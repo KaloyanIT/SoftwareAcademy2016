@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1251f01c-1069-466f-b294-1d14de3ef338" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSWorkshop/GreedyDwarf/greedyDwarf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSWorkshop/MagicWords/magicWords.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Arrays/increaseArraysNumbers.js" afterPath="$PROJECT_DIR$/Arrays/increaseArraysNumbers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Arrays/lexicographicallyComparison.js" afterPath="$PROJECT_DIR$/Arrays/lexicographicallyComparison.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JSWorkshop/GreedyDwarf/greedyDwarf.js" afterPath="$PROJECT_DIR$/JSWorkshop/GreedyDwarf/greedyDwarf.js" />
     </list>
     <ignored path="JS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,11 +29,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="greedyDwarf.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="greedyDwarf.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JSWorkshop/GreedyDwarf/greedyDwarf.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="396">
+              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="magicWords.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JSWorkshop/MagicWords/magicWords.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -57,7 +67,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Fucntions/numberOfElements.js" />
         <option value="$PROJECT_DIR$/Fucntions/appearanceCount.js" />
         <option value="$PROJECT_DIR$/Fucntions/largerThanNeighbours.js" />
         <option value="$PROJECT_DIR$/Fucntions/occurrencesOfWord.js" />
@@ -108,6 +117,7 @@
         <option value="$PROJECT_DIR$/Arrays/increaseArraysNumbers.js" />
         <option value="$PROJECT_DIR$/Arrays/lexicographicallyComparison.js" />
         <option value="$PROJECT_DIR$/JSWorkshop/GreedyDwarf/greedyDwarf.js" />
+        <option value="$PROJECT_DIR$/JSWorkshop/MagicWords/magicWords.js" />
       </list>
     </option>
   </component>
@@ -118,9 +128,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="width" value="1933" />
-    <option name="height" value="1038" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -267,7 +278,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="GreedyDwarf" />
+              <option name="myItemId" value="MagicWords" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JSFundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JSWorkshop" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -282,7 +307,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="E:\Programm Files\NodeJS\node.exe" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -290,19 +315,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="C:/Program Files (x86)/nodejs/node" />
     <property name="SearchEverywhereHistoryKey" value="template&#9;null&#9;null" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Telerik\Part1\JS\Strings\generateList" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.lexicographicallyComparison.js">
-    <configuration default="false" name="multiplicationSign.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="multiplicationSign.js" working-dir="$PROJECT_DIR$/ConditionalStatements">
-      <method />
-    </configuration>
-    <configuration default="false" name="digitAsWord.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="digitAsWord.js" working-dir="$PROJECT_DIR$/ConditionalStatements">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.magicWords.js">
     <configuration default="false" name="theBiggestOfFiveNumbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="theBiggestOfFiveNumbers.js" working-dir="$PROJECT_DIR$/ConditionalStatements">
       <method />
     </configuration>
@@ -310,6 +331,12 @@
       <method />
     </configuration>
     <configuration default="false" name="lexicographicallyComparison.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="lexicographicallyComparison.js" working-dir="$PROJECT_DIR$/Arrays">
+      <method />
+    </configuration>
+    <configuration default="false" name="greedyDwarf.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="greedyDwarf.js" working-dir="$PROJECT_DIR$/JSWorkshop/GreedyDwarf">
+      <method />
+    </configuration>
+    <configuration default="false" name="magicWords.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="magicWords.js" working-dir="$PROJECT_DIR$/JSWorkshop/MagicWords">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -366,19 +393,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.multiplicationSign.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.digitAsWord.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.theBiggestOfFiveNumbers.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.minMaxOfSequence.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.lexicographicallyComparison.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.theBiggestOfFiveNumbers.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.minMaxOfSequence.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.lexicographicallyComparison.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.greedyDwarf.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.magicWords.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.lexicographicallyComparison.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.minMaxOfSequence.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.theBiggestOfFiveNumbers.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.digitAsWord.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.multiplicationSign.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.magicWords.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.greedyDwarf.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.lexicographicallyComparison.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.minMaxOfSequence.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.theBiggestOfFiveNumbers.js" />
       </list>
     </recent_temporary>
   </component>
@@ -405,7 +432,9 @@
       <workItem from="1466921940081" duration="628000" />
       <workItem from="1467059007651" duration="2595000" />
       <workItem from="1467286582248" duration="293000" />
-      <workItem from="1467363080275" duration="177000" />
+      <workItem from="1467363080275" duration="821000" />
+      <workItem from="1467465505423" duration="1373000" />
+      <workItem from="1467557940121" duration="1400000" />
     </task>
     <task id="LOCAL-00001" summary="JSHomework remaked">
       <created>1466622161582</created>
@@ -428,11 +457,18 @@
       <option name="project" value="LOCAL" />
       <updated>1466799809496</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added some resolved task and workshop">
+      <created>1467363283560</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1467363283560</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22417000" />
+    <option name="totallyTimeSpent" value="25834000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -444,26 +480,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1933" height="1038" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19024907" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1897463" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.299886" sideWeight="0.5018548" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32581738" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29875988" sideWeight="0.4981452" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995495" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3990981" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.299886" sideWeight="0.4981452" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3990981" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -497,7 +533,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="JSHomework remaked" />
-    <option name="LAST_COMMIT_MESSAGE" value="JSHomework remaked" />
+    <MESSAGE value="added some resolved task and workshop" />
+    <option name="LAST_COMMIT_MESSAGE" value="added some resolved task and workshop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -508,13 +545,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Fucntions/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Fucntions/numberOfElements.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -822,7 +852,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -830,7 +859,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -838,7 +866,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -846,7 +873,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="511">
           <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -854,14 +880,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JSWorkshop/GreedyDwarf/greedyDwarf.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="396">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSWorkshop/MagicWords/magicWords.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
           <folding />
         </state>
       </provider>
