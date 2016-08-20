@@ -1,4 +1,4 @@
-# SoftwareAcademy2016
+# Telerik SoftwareAcademy 2016/2017
 ##**Homeworks**
 
 | C# Programming          | Web Design and UI                   |
@@ -13,64 +13,63 @@
 
 
 ###### [C# Part 1](Homeworks/C%231)
-* [Intro to Programming](Homeworks/C%231/Intro-Programming-Homework)
-* [Primitive Data Types and Variables](Homeworks/C%231/Primitive-Data-Types-Variables)
-* [Operators and Expressions](Homeworks/C%231/Operators-And-Expressions)
-* [Conditional Statements](Homeworks/C%231/Conditional-Statements)
+* [Intro to Programming](Homeworks/C%231/IntroductionТоProgramming)
+* [Primitive Data Types and Variables](Homeworks/C%231/PrimitiveDataTypesAndVariables)
+* [Operators and Expressions](Homeworks/C%231/OperatorsAndExpressions)
+* [Conditional Statements](Homeworks/C%231/ConditionalStatements)
 * [Loops](Homeworks/C%231/Loops)
-* [Console Input/Output](Homeworks/C%231/Console-Input-Output)
+* [Console Input/Output](Homeworks/C%231/ConsoleInputOutput)
 
 ---
 
 ###### [C# Part 2](Homeworks/C%232)
-* [Arrays](Homeworks/C%232/Arrays)
-* [Multidimensional Arrays](Homeworks/C%232/Matrices)
-* [Methods](Homeworks/C%232/Methods)
-* [Numeral Systems](Homeworks/C%232/Numeral-Systems)
-* [Classes and Objects](Homeworks/C%232/Classes-And-Objects)
-* [Strings and Text Processing](Homeworks/C%232/Strings-And-Text-Processing)
-* [Exception Handling](Homeworks/C%232/Exception-Handling)
-* [Text Files](Homeworks/C%232/Text-Files)
+* [Arrays](Homeworks/C%232/01.Arrays)
+* [Multidimensional Arrays](Homeworks/C%232/02.MultidimensionalArrays)
+* [Methods](Homeworks/C%232/03.Methods)
+* [Numeral Systems](Homeworks/C%232/04. Numeral Systems - Homework)
+* [Classes and Objects](Homeworks/C%232/05. Using Classes and Objects - Homework)
+* [Strings and Text Processing](Homeworks/C%232/06. Strings and Text Processing - Homework)
+* [Exception Handling](Homeworks/C%232/06. Strings and Text Processing - Homework)
+* [Text Files](Homeworks/C%232/08. Text Files - Homework)
 
 ---
 
-###### [C# OOP](Homeworks/OOP)
-* [Defining Classes - Part 1](Homeworks/OOP/Defining-Classes-FP)
-* [Defining Classes - Part 2](Homeworks/OOP/Defining-Classes-SP)
-* [Extension Methods and LINQ](Homeworks/OOP/Extension-Methods-And-LINQ)
-* [OOP Fundamental Principles - Part 1](Homeworks/OOP/OOP-Fundamental-Principles-FP)
-* [OOP Fundamental Principles - Part 2](Homeworks/OOP/OOP-Fundamental-Principles-SP)
-* [Common Type System](Homeworks/OOP/Common-Type-System)
+###### [C# OOP](Homeworks/C%23OOP)
+* [Defining Classes - Part 1](Homeworks/C%23OOP/DefiningClassesPart 1)
+* [Defining Classes - Part 2](Homeworks/C%23OOP/DefiningClassesPart2)
+* [Extension Methods and LINQ](Homeworks/C%23OOP/ExtensionMethodsDelegatesLambdaLINQ)
+* [OOP Fundamental Principles - Part 1](Homeworks/C%23OOP/OOPPrinciplesPart1)
+* [OOP Fundamental Principles - Part 2](Homeworks/C#OOP/OOP-Fundamental-Principles-SP)
+* [Common Type System](Homeworks/C%23OOP/CommonTypeSystem)
 
 ---
 
 ###### [HTML](Homeworks/HTML)
-* [HTML Fundamentals](Homeworks/HTML/HTML-Fundamentals)
-* [Tables](Homeworks/HTML/HTML-Tables)
-* [Forms](Homeworks/HTML/HTML-Forms)
-* [Semantic HTML](Homeworks/HTML/HTML-Semantic)
+* [HTML Fundamentals](Homeworks/HTML/HTMLFundamentals)
+* [Tables](Homeworks/HTML/HTMLTables)
+* [Forms](Homeworks/HTML/HTMLFormsAndFrames)
+* [Semantic HTML](Homeworks/HTML/SemanticHTML)
 
 ---
 
 ###### [CSS](Homeworks/CSS)
-* [CSS Overview](Homeworks/CSS/CSS-Overview)
-* [CSS Presentation](Homeworks/CSS/CSS-Presentation)
-* [CSS Layout](Homeworks/CSS/CSS-Layout)
-* [CSS Preprocessors](Homeworks/CSS/CSS-Processors)
+* [CSS Overview](Homeworks/CSS/01.CSSOverview)
+* [CSS Presentation](Homeworks/CSS/02.CSSPresentation)
+* [CSS Layout](Homeworks/CSS/03.CSSLayout)
 
 ---
 
-###### [JS Fundamentals](Homeworks/JS-FUNDAMENTALS)
-* [Data Types and Variables](Homeworks/JS-FUNDAMENTALS/Data-Types-And-Variables)
-* [Operators and Expressions](Homeworks/JS-FUNDAMENTALS/Operators-And-Expressions)
-* [Conditional Statements](Homeworks/JS-FUNDAMENTALS/Conditional-Statements)
-* [Loops](Homeworks/JS-FUNDAMENTALS/Loops)
-* [Arrays](Homeworks/JS-FUNDAMENTALS/Arrays)
-* [Functions](Homeworks/JS-FUNDAMENTALS/Functions)
-* [Using Objects](Homeworks/JS-FUNDAMENTALS/Using-Objects)
-* [Array Methods](Homeworks/JS-FUNDAMENTALS/Array-Methods)
-* [Strings](Homeworks/JS-FUNDAMENTALS/Strings)
-* [Regular Expressions](Homeworks/JS-FUNDAMENTALS/Regular-Expressions)
+###### [JS Fundamentals](Homeworks/JSFundamentals)
+* [Data Types and Variables](Homeworks/JSFundamentals/DataTypesAndVariables)
+* [Operators and Expressions](Homeworks/JSFundamentals/OperatorsAndExpressions)
+* [Conditional Statements](Homeworks/JSFundamentals/ConditionalStatements)
+* [Loops](Homeworks/JSFundamentals/Loops)
+* [Arrays](Homeworks/JSFundamentals/Arrays)
+* [Functions](Homeworks/JSFundamentals/Functions)
+* [Using Objects](Homeworks/JSFundamentals/Objects)
+* [Array Methods](Homeworks/JSFundamentals/ArrayMethods)
+* [Strings](Homeworks/JSFundamentals/Strings)
+* [Regular Expressions](Homeworks/JSFundamentals/RegularExpression)
 
 ---
 
