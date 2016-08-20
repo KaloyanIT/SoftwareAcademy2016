@@ -1,13 +1,13 @@
 # SoftwareAcademy2016
 ##**Homeworks**
 
- C# Programming          | Web Design and UI                   |
+| C# Programming          | Web Design and UI                   |
 |:-----------------------:|:-----------------------------------:|
-| [C# Part 1](#c#-part-1)  | [HTML](#html)                       |
-| [C# Part 2](#c#-part-2)  | [CSS](#css)                         |
-| [C# OOP](#C#-OOP)        | [JS Fundamentals](#js-fundamentals) |
-| [HQC](#hqc)             |[JS UI&DOM](#js-uidom)                   |
-|                         | [JS OOP](#js-oop)               |
+| [C# Part 1](#c-part-1)  | [HTML](#html)                       |
+| [C# Part 2](#c-part-2)  | [CSS](#css)                         |
+| [C# OOP](#c-oop)        | [JS Fundamentals](#js-fundamentals) |
+| [HQC](#hqc)             |[JS OOP](#js-oop)                    |
+|                         |[JS UI&DOM](#js-uidom)               |
 |                         |[JS APPS](#js-apps)                  |
 
 
