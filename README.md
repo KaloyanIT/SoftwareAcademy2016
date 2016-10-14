@@ -1,15 +1,16 @@
 # Telerik SoftwareAcademy 2016/2017
-##**Homeworks**
+## **Homeworks**
 
-| C# Programming          | Web Design and UI                   |
-|:-----------------------:|:-----------------------------------:|
-| [C# Part 1](#c-part-1)  | [HTML](#html)                       |
-| [C# Part 2](#c-part-2)  | [CSS](#css)                         |
+| C# Programming          | Web Design and UI                   | Web Development |
+|:-----------------------:|:-----------------------------------:|:---------------:|
+| [C# Part 1](#c-part-1)  | [HTML](#html)                       |[Databases](#databases)|
+| [C# Part 2](#c-part-2)  | [CSS](#css)                         |[NodeJSDevelopment](#node-js-development)|
 | [C# OOP](#c-oop)        | [JS Fundamentals](#js-fundamentals) |
-|  [UnitTesting](#unit-testing) |[JS OOP](#js-oop)                    |
-|[HQC-Part1](#hqc-1)      |[JS UI&DOM](#js-uidom)               |
+| [UnitTesting](#unit-testing) |[JS UI&DOM](#js-uidom)          |
+|[HQC-Part1](#hqc-1)      | [JS OOP](#js-oop)                   |
 |[HQC-Part2](#hqc-2)      |[JS APPS](#js-apps)                  |
-|                         |                                     |
+|[DesignPatterns](#designPattern)|                              |
+|[DSA](#dsa)|
 
 
 
@@ -100,25 +101,34 @@
 
 ---
 
-###### [JS APPS](Homeworks/JS-APPS)
-* [Underscore](Homeworks/JS-APPS/Underscore)
+###### [HQC-Part1](Homeworks/HQC-FirstPart)
+* [Naming Identifiers](Homeworks/HQC-FirstPart/NamingIdentifiers)
+* [Formating Code](Homeworks/HQC-FirstPart/VariablesDataExpressionsAndConstants/FormatingCode)
+* [Code Documentation And Comments](Homeworks/HQC-FirstPart/CodeDocumentationAndComments)
+* [High Quality Methods](Homeworks/HQC-FirstPart/HighQualityMethods)
+* [High Quality Classes](Homeworks/HQC-FirstPart/HighQualityClasses)
+* [Control Flow Conditional Statements And  Loops](Homeworks/HQC-FirstPart/ControlFlowConditionalStatementdAndLoops)
+
 
 ---
 
-###### [HQC](Homeworks/HQC)
-* [Code Formatting](Homeworks/HQC/Code-Formatting)
-* [Naming Identifiers](Homeworks/HQC/Naming-Identifiers)
-* [Code Documentation and Comments](Homeworks/HQC/Code-Documentation-And-Comments)
-* [Using Variables and Constants](Homeworks/HQC/Using-Variables-And-Constants)
-* [Conditional Statements and Loops](Homeworks/HQC/Conditional-Statements-And-Loops)
-* [High Quality Methods](Homeworks/HQC/High-Quality-Methods)
-* [High Quality Classes](Homeworks/HQC/High-Quality-Classes)
-* [Assertions and Exceptions](Homeworks/HQC/Assertions-And-Exceptions)
-* [Code Tuning and Optimization](Homeworks/HQC/Code-Tuning-And-Optimization)
-* [Unit Testing](Homeworks/HQC/Unit-Testing)
-* [Test Driven Development](Homeworks/HQC/Test-Driven-Development)
-* [Refactoring](Homeworks/HQC/Refactoring)
-* [Development Tools](Homeworks/HQC/Development-Tools)
-* [Creational Design Patterns](Homeworks/HQC/Creational-Patterns)
-* [Structural Design Patterns](Homeworks/HQC/Structural-Patterns)
-* [Behavioral Design Patterns](Homeworks/HQC/Behavioral-Patterns)
+###### [JS APPS](Homeworks/JSApplications)
+* [Promises And Async](Homeworks/JSApplications/01.PromisesAndAsync)
+* [Workshop Forum](Homeworks/JSApplications/01. HTTP %26 AJAX Workshop - Forum)
+
+---
+
+###### [HQC-Part2](Homeworks/HQC-SecondPart/DefensiveProgramming)
+* [Assertions](Homeworks/HQC-SecondPart/DefensiveProgramming/Assertions-Homework)
+* [Exceptions](Homeworks/HQC-SecondPart/DefensiveProgramming/Exceptions-Homework)
+
+---
+
+##### [Design Patterns](Homeworks/Design-Patterns)
+
+
+---
+
+##### [Databases](Homeworks/Databases)
+
+---
