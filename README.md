@@ -101,7 +101,7 @@
 
 ---
 
-###### [HQC-Part1](Homeworks/HQC-FirstPart)
+###### [HQC Part1](Homeworks/HQC-FirstPart)
 * [Naming Identifiers](Homeworks/HQC-FirstPart/NamingIdentifiers)
 * [Formating Code](Homeworks/HQC-FirstPart/VariablesDataExpressionsAndConstants/FormatingCode)
 * [Code Documentation And Comments](Homeworks/HQC-FirstPart/CodeDocumentationAndComments)
@@ -118,7 +118,7 @@
 
 ---
 
-###### [HQC-Part2](Homeworks/HQC-SecondPart/DefensiveProgramming)
+###### [HQC Part2](Homeworks/HQC-SecondPart/DefensiveProgramming)
 * [Assertions](Homeworks/HQC-SecondPart/DefensiveProgramming/Assertions-Homework)
 * [Exceptions](Homeworks/HQC-SecondPart/DefensiveProgramming/Exceptions-Homework)
 
