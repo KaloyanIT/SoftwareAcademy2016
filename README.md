@@ -7,8 +7,8 @@
 | [C# Part 2](#c-part-2)  | [CSS](#css)                         |[NodeJSDevelopment](#node-js-development)|
 | [C# OOP](#c-oop)        | [JS Fundamentals](#js-fundamentals) |
 | [UnitTesting](#unit-testing) |[JS UI&DOM](#js-uidom)          |
-|[HQC-Part1](#hqc-1)      | [JS OOP](#js-oop)                   |
-|[HQC-Part2](#hqc-2)      |[JS APPS](#js-apps)                  |
+|[HQC-Part1](#hqc-part1)      | [JS OOP](#js-oop)                   |
+|[HQC-Part2](#hqc-part2)      |[JS APPS](#js-apps)                  |
 |[DesignPatterns](#designPattern)|                              |
 |[DSA](#dsa)|
 
