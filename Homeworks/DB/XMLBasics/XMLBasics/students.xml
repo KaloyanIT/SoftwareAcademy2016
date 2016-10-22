@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"  ?>
+<students:students
+  xmlns:students ="students">
+  <students:student>
+    <students:name>Pesho</students:name>
+    <students:sex>Male</students:sex>
+    <students:birthdate>23.5.2015</students:birthdate>
+    <students:phone>0893322394892</students:phone>
+    <students:email>fizuikji@abv.bg</students:email>
+    <students:course>Course</students:course>
+    <students:speciality>Engeneering</students:speciality>
+    <students:facultynumber>932174823432498</students:facultynumber>
+    <students:exams>
+      <students:exam>
+        <students:name>Math</students:name>
+        <students:tutor>Smth</students:tutor>
+        <students:score>90</students:score>
+      </students:exam>
+    </students:exams>
+  </students:student>
+</students:students>
+
+
+
